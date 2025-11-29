@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Euan's Face Pics
 This is a really simple api that serves images of the one and only Euan Ripper
 ## Usage
@@ -12,6 +11,3 @@ You can also make a request to the /euan/count endpoint to get the amount of ima
 If you want to add images of Euan, just add it to the /images directory and submit a pull request
 
 uhh that's basically it
-=======
-# euan
->>>>>>> b9074a270ab90d69d606fb3849ddc0b2f55d7253
